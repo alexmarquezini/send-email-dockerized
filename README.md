@@ -1,6 +1,6 @@
 # Envio de Email Dockerizado
 
-Código baseado no curso da Cod3r Cursos Online; Docker, Essencial Para Programadores.
+__Essa aplicação é baseada no curso da Cod3r Cursos Online:__ _Docker, Essencial Para Programadores_.
 
 Essa aplicação é muito básica, porém contém várias imagens e containers que interagem entre sí. Temos exemplos de proxy reversa com Nginx, fila de e-mails com Redis, e muito mais.
 
